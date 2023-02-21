@@ -4,9 +4,7 @@
   "description": "",
   "main": "app.js",
   "env": {
-    "TOKEN": {
-        "description": "API Token , get it from @BotFather"
-    }
+    "TOKEN": "6287093697:AAGW14tCLi53eJrzGh-zx1C4WDI8hqqZX5U"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
